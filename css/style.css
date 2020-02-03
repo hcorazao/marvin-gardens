@@ -136,6 +136,12 @@ a:active {
 	transition-timing-function: ease-in-out
 }
 
+.features-icon {
+	font-size: 45px;
+	color: #FFFFFF;
+	padding-top: 30px;
+}
+
 .main-subheader {
 	font-size: 18px;
     color: #eee;
