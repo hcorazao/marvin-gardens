@@ -39,6 +39,10 @@
 	}
 }
 
+#map-section {
+	height: 490px;
+}
+
 .text-theme-color {
 	color: #eb3007
 }
